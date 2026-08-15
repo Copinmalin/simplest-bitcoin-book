@@ -91,7 +91,7 @@ votre compte courant en ligne, qui n'est qu'une
 forme numérique de monnaie fiduciaire de banque centrale.
 * Bitcoin est une monnaie numérique **décentralisée**.
 * Bitcoin n'a **pas d'autorité centrale.**
-* Bitcoin est **sans État.**
+* Bitcoin est **apatride.**
 * Considérez les implications ...
 
 >*Bitcoin est une monnaie numérique décentralisée qui permet
@@ -437,7 +437,7 @@ nouveau porteur.**
 
 * Il ne peut y avoir de portiers.
 ---
-* **Bitcoin fonctionne sans tiers de confiance.**
+* **Bitcoin est sans tiers de confiance.**
 >*Le problème fondamental avec la
 monnaie conventionnelle est toute la confiance qui est nécessaire
 pour la faire fonctionner. La banque centrale doit être
@@ -454,7 +454,7 @@ la nature sans tiers de confiance de Bitcoin.
 * Consultez github.com/bitcoin
 * **Ceci est actuellement le principal dépôt Bitcoin.**
 * Cliquez pour voir le code, les demandes d'extraction,
-les revues, les commits, les bips (propositions d'amélioration
+les revues, les commits, les BIP (propositions d'amélioration
 de Bitcoin) et les développeurs qui travaillent sur,
 maintiennent et améliorent la
 création qu'est Bitcoin.
