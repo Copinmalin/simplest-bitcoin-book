@@ -13,7 +13,7 @@
 * Keepitsimplebitcoin.com @KISBitcoin
 * nbtv.media @naomibrockwell
 
-## VPN (Réseau Privé Virtuel pour Masquer votre FAI)
+## VPN (RÉSEAU PRIVÉ VIRTUEL POUR MASQUER VOTRE ADRESSE IP À VOTRE FAI)
 * Mullvad.net - Payez avec du bitcoin
 * IVPN.net - Payez avec du bitcoin
 
@@ -42,13 +42,13 @@
 * SimpleX
 * Session
 * Telegram - Paramètre "Chat Secret"
-## EXECUTER VOTRE PROPRE NOEUD
+## EXÉCUTER VOTRE PROPRE NŒUD
 * Bitcoin Knots
 * Bitcoin Core
 * Ronin Dojo
 * Exécuter Citadel
 * Raspi Blitz
-* Umbrel - Si vous exécutez simplement votre nœud bitcoin dessus.
+* Umbrel - Si vous exécutez simplement votre nœud Bitcoin dessus.
 ## TÉLÉPHONES CELLULAIRES/NUMÉROS DE TÉLÉPHONE À USAGE UNIQUE
 * Exécutez Graphene OS sur un Android Pixel
 * Silent.link - Accepte bitcoin & Lightning
