@@ -68,7 +68,7 @@ Crédit : @bitcoinfool
 
 ## ÉPOQUES DE RÉCOMPENSE
 
-* Tous les quatre ans, la subvention de Bitcoin est réduite de moitié pour chaque
+* Tous les quatre ans, la subvention de bitcoin est réduite de moitié pour chaque
 bloc miné. **Une époque de récompense est cette période de quatre ans.**
 
 * **Époque de récompense 1 :** 2009-2012 **Subvention de bloc :** 50 bitcoin
