@@ -13,7 +13,7 @@
 * Keepitsimplebitcoin.com @KISBitcoin
 * nbtv.media @naomibrockwell
 
-## VPN (RÉSEAU PRIVÉ VIRTUEL POUR MASQUER VOTRE ADRESSE IP À VOTRE FAI)
+## VPN (Réseau Privé Virtuel pour Masquer votre adresse IP à votre FAI)
 * Mullvad.net - Payez avec du bitcoin
 * IVPN.net - Payez avec du bitcoin
 
